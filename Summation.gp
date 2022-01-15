@@ -1,0 +1,1 @@
+while(i=input,print(i*i++/2))

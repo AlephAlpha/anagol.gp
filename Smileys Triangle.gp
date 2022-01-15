@@ -1,0 +1,1 @@
+for(i=print(":\n:-\n"a=":-)"),30,print(a=Str(a"))")))

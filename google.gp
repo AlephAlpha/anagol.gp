@@ -1,0 +1,1 @@
+for(i=1,input,g=Str(g,o));print(g,gle)

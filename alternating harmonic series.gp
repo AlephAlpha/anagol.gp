@@ -1,0 +1,1 @@
+for(i=!s=print1("1/"),20,print(s-=(-1)^i/i))
