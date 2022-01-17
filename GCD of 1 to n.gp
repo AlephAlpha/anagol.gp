@@ -1,0 +1,1 @@
+while(input,print(1))

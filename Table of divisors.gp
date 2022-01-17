@@ -1,0 +1,1 @@
+for(i=1,input,s=":";fordiv(j=i,d,j=Str(j,s,d);s=" ");print(j))

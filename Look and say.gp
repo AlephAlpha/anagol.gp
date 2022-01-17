@@ -1,1 +1,1 @@
-for(i=!n=input,11,j=!k=s=print(n);while(n,if((n-k)%t=10,s+=j*k;k&j*=100;k=t+n%t,k+=t);n\=t);n=s+k*j)
+for(i=!n=input,11,j=!k=s=print(n);until(!n\=t,if((n-k)%t=10,s+=j*k;k&j*=100;k=t+n%t,k+=t));n=s+k*j)

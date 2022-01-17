@@ -1,0 +1,1 @@
+for(i=0,255,print1(norml2(binary(i))))
