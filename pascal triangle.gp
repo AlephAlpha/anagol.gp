@@ -1,0 +1,1 @@
+for(i=0,33,print(!for(j=0,i-1,print1(i!/j!/(i-j)!" "))))

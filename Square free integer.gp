@@ -1,0 +1,1 @@
+for(i=1,500,core(i)-i|print(i))

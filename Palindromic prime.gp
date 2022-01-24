@@ -1,0 +1,1 @@
+forprime(p=1,2e4,(s=Vec(Str(p)))==Vecrev(s)&print(p))

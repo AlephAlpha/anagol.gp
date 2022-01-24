@@ -1,0 +1,1 @@
+s=[];for(i=3,99,sqrt(i)%1&s=concat(s,i));print(s)

@@ -1,0 +1,1 @@
+until(print(2^#binary(input)),)
