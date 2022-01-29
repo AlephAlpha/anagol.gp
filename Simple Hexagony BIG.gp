@@ -1,0 +1,1 @@
+for(i=!s=c=!a=2^p=7!,5e4,t=a>a=bitxor(a,2^p+=[1,81,80][c%3-m=-1]*m^(c\3));s-t|c+=m^s;print1(s=t))

@@ -1,0 +1,1 @@
+print(a="If you're happy and you know it, "b="clap your hands!\n"a,b,a"and you really want to show it;\n"a,b)
