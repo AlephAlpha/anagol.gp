@@ -41,7 +41,12 @@ The version of PARI/GP on Anarchy Golf is 2.5.1.
 |  348. | perfect square free            |   49 |
 |  350. | Bigger power of two            |   31 |
 |  370. | long decimal                   |   24 |
+|  444. | Success                        |   14 |
+|  448. | Decomposition                  |   36 |
+|  461. | Zero                           |    8 |
 |  679. | Reduce fractions               |    1 |
+| 1221. | big number                     |   11 |
+| 1224. | 12345                          |   24 |
 | 1265. | Disagree                       |   26 |
 | 1337. | decode pressure                |   46 |
 | 1338. | If youre happy and you know it |  109 |

@@ -1,0 +1,1 @@
+until(print((sqrt(8*input+1)-1)\2),)
